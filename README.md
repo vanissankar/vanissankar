@@ -8,9 +8,9 @@
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/bb/bd/4e/bbbd4e78ca4a5477eec5e7aaf1432be3.gif" 
-       width="600" 
+       width=100% 
        alt="Iron Man Animation"
-       style="border-radius:10px;" />
+       style="border-radius:20px;" />
 </p>
 
 
