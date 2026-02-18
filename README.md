@@ -54,11 +54,13 @@
 
 ---
 
+---
+
 ## ▶ YouTube
 
 <p align="center">
   <a href="https://youtube.com/YOUR-CHANNEL-LINK">
-    <img src="https://skillicons.dev/icons?i=youtube" height="50"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="50"/>
   </a>
 </p>
 
