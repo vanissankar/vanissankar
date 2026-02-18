@@ -1,78 +1,71 @@
 # Anis Sankar
 
-> Systems Thinker • Product Builder • AI + Infrastructure Explorer  
-> Building reliable, intelligent systems that solve real-world problems.
+> Web Developer • Systems Thinker • DevOps Aspirant  
+> Building reliable systems that simplify real-world problems.
 
 ---
 
-## 🚀 Focus Areas
+## ⚡ Focus
 
-- Intelligent Form Systems
-- Image → Algorithmic Processing
-- Financial System Reliability
-- Data Analytics & Cloud Architecture
-- Scalable Backend Design
-
----
-
-## 🧠 Flagship Projects
-
-### 🔹 Smart Form Generator
-Dynamic form builder with admin panel, structured storage, and file optimization pipeline.
-
-### 🔹 Art For Everyone
-Image-to-String-Art engine using Python, OpenCV, and algorithmic path planning.
-
-### 🔹 UPI Failure Resolver (Concept System)
-Architectural solution to prevent ghost debit issues in public transport systems.
-
-### 🔹 CGPA Interactive Visualizer
-Emotion-reactive academic calculator with immersive UI logic.
+![Web Engineering](https://img.shields.io/badge/Web-Engineering-1F2937?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System-Design-374151?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-4B5563?style=for-the-badge)
+![DevOps Journey](https://img.shields.io/badge/DevOps-Journey-2563EB?style=for-the-badge)
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 Core Strengths
+
+- Designing structured web applications  
+- Problem solving with system-level thinking  
+- Product-oriented development approach  
+- Backend logic & architecture planning  
+
+---
+
+## 🛠 Technical Stack
 
 **Languages**
 - Python
 - JavaScript
 - SQL
 
-**Backend & Systems**
-- Flask
-- REST API Design
-- SQLite
-- Backend Architecture Planning
-
-**Frontend**
+**Web & Backend**
 - HTML
 - CSS
-- Vanilla JavaScript
+- Flask
+- REST APIs
 
-**Processing & AI**
-- OpenCV
-- Image Processing
-- Optimization Logic
-
----
-
-## 🏗 Engineering Direction
-
-Currently focused on:
-
-- Scalable backend systems
-- Infrastructure thinking
-- Data pipelines
-- Failure-resistant financial systems
-- Cloud-native architecture
+**Currently Exploring**
+- Docker
+- CI/CD pipelines
+- Linux fundamentals
+- Cloud infrastructure basics
 
 ---
 
-## 📫 Connect
+## 🔬 Interests & Hobby Systems
 
-- Email: your-email@example.com
-- LinkedIn: (add your link here)
+![Electronics Projects](https://img.shields.io/badge/Electronics-Projects-6B7280?style=for-the-badge)
+![Automation Tools](https://img.shields.io/badge/Automation-Tools-4B5563?style=for-the-badge)
+![System Building](https://img.shields.io/badge/System-Building-374151?style=for-the-badge)
+
+I enjoy building small hardware + software systems that make everyday life easier.
 
 ---
 
-> “Build systems that don't just work — build systems that endure.”
+## 📡 DevOps Direction
+
+Working toward:
+
+- Reliable deployment pipelines  
+- Infrastructure-aware development  
+- Monitoring & logging systems  
+- Scalable backend architectures  
+
+---
+
+## 🧲 Inspiration
+
+> “I am not the hero. I am the system behind the hero.”  
+> — JARVIS
