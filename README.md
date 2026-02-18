@@ -32,15 +32,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anissankar-v/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="65"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="75"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/vanissankar">
-    <img src="https://skillicons.dev/icons?i=github" height="65"/>
+    <img src="https://skillicons.dev/icons?i=github" height="75"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:anissankarv@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="65"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="75"/>
   </a>
 </p>
 
