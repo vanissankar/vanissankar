@@ -46,8 +46,6 @@
 
 ---
 
----
-
 ## ▶ YouTube
 
 <p align="center">
