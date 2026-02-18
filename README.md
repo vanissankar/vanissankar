@@ -16,39 +16,31 @@
 
 ---
 
-## 🚀 Focus & Interests
+## 🚀 Focus & Direction
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Web-Engineering-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System-Design-1E293B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automation-0F766E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend-Architecture-4F46E5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud-Infrastructure-0EA5E9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CI/CD-Pipelines-059669?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux-Systems-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Electronics-Projects-9333EA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Building-Useful%20Systems-F97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Systems-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Exploring-DevOps-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Interest-Electronic%20Products-9333EA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hobby-DIY%20E--Projects-F97316?style=for-the-badge" />
 </p>
+
 
 ---
 
 ## 📬 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK">
+  <a href="https://www.linkedin.com/in/anissankar-v/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/YOUR-USERNAME">
+  <a href="https://github.com/vanissankar">
     <img src="https://skillicons.dev/icons?i=github" height="45"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:YOUR-EMAIL">
+  <a href="mailto:anissankarv@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/YOUR-LINK">
-    <img src="https://skillicons.dev/icons?i=twitter" height="45"/>
   </a>
 </p>
 
@@ -59,13 +51,13 @@
 ## ▶ YouTube
 
 <p align="center">
-  <a href="https://youtube.com/YOUR-CHANNEL-LINK">
+  <a href="https://www.youtube.com/@atltechanis">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="50"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://youtube.com/YOUR-CHANNEL-LINK">
+  <a href="https://www.youtube.com/@atltechanis">
     <b>Visit My YouTube Channel</b>
   </a>
 </p>
