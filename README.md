@@ -1,4 +1,4 @@
-<h1 align="center">ANIS SANKAR</h1>
+<h1 align="center">ANIS SANKAR V</h1>
 
 <p align="center">
   <b>Web Developer • Project Manager • System Builder • DevOps Aspirant</b>
@@ -32,15 +32,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anissankar-v/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="65"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/vanissankar">
-    <img src="https://skillicons.dev/icons?i=github" height="45"/>
+    <img src="https://skillicons.dev/icons?i=github" height="65"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:anissankarv@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="65"/>
   </a>
 </p>
 
